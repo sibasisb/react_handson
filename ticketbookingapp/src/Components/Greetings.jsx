@@ -2,14 +2,6 @@ import React, { Component } from 'react'
 import { GuestGreeting } from './GuestGreeting';
 import { UserGreeting } from './UserGreeting';
 
-function handleLogin(){
-
-}
-
-function handleLogout(){
-
-}
-
 export class Greetings extends Component {
     constructor(props){
         super(props);
