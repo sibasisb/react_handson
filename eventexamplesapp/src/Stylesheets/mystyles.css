@@ -1,0 +1,11 @@
+.mydiv {
+    padding-top: 5%;
+    padding-left: 5%;
+  }
+  .heading {
+      color: forestgreen;
+  }
+
+  input[type=submit] {
+      margin-left: 3%;
+  }

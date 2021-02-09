@@ -1,0 +1,19 @@
+.mydiv {
+    text-align:center;
+}
+
+.mydiv h1 {
+    color:forestgreen;
+}
+
+.mytable {
+    margin: auto;
+}
+
+.mytable th{
+    color:forestgreen;
+}
+
+.mytable td {
+    color: blue;
+}

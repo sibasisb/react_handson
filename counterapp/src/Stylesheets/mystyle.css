@@ -1,0 +1,10 @@
+.mybuttons {
+    margin-top: 20%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.mybuttons button {
+    background-color: lightgreen;
+    color: darkgreen;
+}
