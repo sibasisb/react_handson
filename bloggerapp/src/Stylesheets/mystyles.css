@@ -9,3 +9,14 @@
 .blogdet li{
     list-style-type: none;
 }
+
+.bookdet {
+   padding-right: 10%; 
+   border-right: 5px solid green; 
+}
+
+.coursedet {
+    padding-right: 10%; 
+    border-right: 5px solid green; 
+ }
+
