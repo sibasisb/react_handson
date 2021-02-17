@@ -1,0 +1,37 @@
+.gallery {
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-bottom: 30px;
+}
+
+.row {
+    width: 100%;
+}
+
+.mycard {
+    padding:1%;
+    margin-top: 1%;
+    border:none;
+}
+
+.login-form {
+    margin-top: 1%;
+}
+
+.login-card {
+    margin: auto;
+}
+
+.error-list {
+    color: red;
+}
+
+.watch-button {
+    margin-left: 1%;
+}
+
+.grey-lined {
+    color:grey;
+}
+
